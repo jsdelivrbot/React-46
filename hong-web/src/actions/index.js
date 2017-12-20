@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const ROOT_URL = 'http://www.shesmiss.co.kr/JSON/INSTA.json';
+const ROOT_URL = 'http://hong-web.com/JSON/port.json';
 
 export const FETCH_ELEMENT = 'fetch_element';
 
